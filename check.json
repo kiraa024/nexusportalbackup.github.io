@@ -1,4 +1,0 @@
-{
-  "_comment": "KillSwitch. If something goes wrong on nexusportal.ct.ws, this will be set to true.",
-  "active": false
-}
